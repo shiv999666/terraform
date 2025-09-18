@@ -3,4 +3,4 @@
 terraform.tfstate*
 *.tfvars
 terraform.txt
-.vscode*
+.vscode
